@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"oBattle",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oBattleUnitPC",
+  "eventList":[],
   "managed":true,
-  "name":"oBattle",
+  "name":"oBattleUnitPC",
   "overriddenProperties":[],
   "parent":{
     "name":"Combat",
     "path":"folders/Objects/Combat.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oBattleUnit",
+    "path":"objects/oBattleUnit/oBattleUnit.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
