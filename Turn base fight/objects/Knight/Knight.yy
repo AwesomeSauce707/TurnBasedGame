@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Knight_enemies",
-  "eventList":[],
+  "%Name":"Knight",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"oSprite1","path":"objects/oSprite1/oSprite1.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Knight_enemies",
+  "name":"Knight",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
