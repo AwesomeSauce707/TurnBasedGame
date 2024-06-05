@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"Turn base fight",
+  "%Name":"test",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -32,21 +32,10 @@
   "MetaData":{
     "IDEVersion":"2024.4.1.152",
   },
-  "name":"Turn base fight",
+  "name":"test",
   "resources":[
-    {"id":{"name":"Knight_enemies","path":"objects/Knight_enemies/Knight_enemies.yy",},},
-    {"id":{"name":"move","path":"objects/move/move.yy",},},
-    {"id":{"name":"oBattle","path":"objects/oBattle/oBattle.yy",},},
-    {"id":{"name":"party1","path":"objects/party1/party1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"BattleFunctions","path":"scripts/BattleFunctions/BattleFunctions.yy",},},
-    {"id":{"name":"GameData","path":"scripts/GameData/GameData.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
-    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
-    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
-    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
