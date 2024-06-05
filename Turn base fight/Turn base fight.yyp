@@ -41,6 +41,7 @@
     {"id":{"name":"oBattleUnitEnemy","path":"objects/oBattleUnitEnemy/oBattleUnitEnemy.yy",},},
     {"id":{"name":"oBattleUnitPC","path":"objects/oBattleUnitPC/oBattleUnitPC.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
+    {"id":{"name":"oCameraBoundary","path":"objects/oCameraBoundary/oCameraBoundary.yy",},},
     {"id":{"name":"oSprite1","path":"objects/oSprite1/oSprite1.yy",},},
     {"id":{"name":"rHome","path":"rooms/rHome/rHome.yy",},},
     {"id":{"name":"BattleFunctions","path":"scripts/BattleFunctions/BattleFunctions.yy",},},
