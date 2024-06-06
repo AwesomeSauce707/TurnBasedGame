@@ -3,4 +3,5 @@
 
 // Inherit the parent event
 event_inherited();
-image_xscale = 1;
+
+room_goto(Overworld);

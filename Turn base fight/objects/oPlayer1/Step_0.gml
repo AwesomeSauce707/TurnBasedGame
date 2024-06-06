@@ -13,6 +13,7 @@ if(keyboard_check(ord("S"))){
 	y += 5;
 }
 
+/*
 // Camera that move with the player
 #region
 
@@ -22,3 +23,5 @@ halfViewHeight = camera_get_view_angle(view_camera[0])/2;
 camera_set_view_pos(view_camera[0], x-halfViewWigth, y-halfViewHeight);
 
 #endregion
+*/
+

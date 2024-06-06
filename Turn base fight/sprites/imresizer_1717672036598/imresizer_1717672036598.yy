@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
-  "%Name":"BattleBackGround",
+  "%Name":"imresizer_1717672036598",
   "bboxMode":0,
-  "bbox_bottom":479,
+  "bbox_bottom":719,
   "bbox_left":0,
-  "bbox_right":799,
+  "bbox_right":1279,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,16 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"ca062b1d-eda5-421d-8983-5c4a5a39a80c","name":"ca062b1d-eda5-421d-8983-5c4a5a39a80c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"ebea3f70-598e-41f3-a0d0-3c4dda43c6ea","name":"ebea3f70-598e-41f3-a0d0-3c4dda43c6ea","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":480,
+  "height":720,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"c524b8b1-e994-464d-b641-d2a61526dafb","blendMode":0,"displayName":"default","isLocked":false,"name":"c524b8b1-e994-464d-b641-d2a61526dafb","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"7777c947-d7cc-489c-a3b3-1feb1383e386","blendMode":0,"displayName":"default","isLocked":false,"name":"7777c947-d7cc-489c-a3b3-1feb1383e386","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"BattleBackGround",
+  "name":"imresizer_1717672036598",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"BattleBackGround",
+    "%Name":"imresizer_1717672036598",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"BattleBackGround",
+    "name":"imresizer_1717672036598",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ca062b1d-eda5-421d-8983-5c4a5a39a80c","path":"sprites/BattleBackGround/BattleBackGround.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"de1b5e8b-16c3-4f06-96a7-5700448025d6","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ebea3f70-598e-41f3-a0d0-3c4dda43c6ea","path":"sprites/imresizer_1717672036598/imresizer_1717672036598.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"be3c8656-8731-45cd-a714-845b3b759c2d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":800,
+  "width":1280,
 }

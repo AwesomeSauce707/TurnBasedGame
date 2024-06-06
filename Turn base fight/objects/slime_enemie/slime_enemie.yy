@@ -2,7 +2,7 @@
   "$GMObject":"",
   "%Name":"slime_enemie",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"Player1","path":"objects/Player1/Player1.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"oPlayer1","path":"objects/oPlayer1/oPlayer1.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"slime_enemie",

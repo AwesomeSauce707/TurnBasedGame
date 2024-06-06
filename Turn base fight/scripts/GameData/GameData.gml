@@ -12,10 +12,8 @@ global.party =
 		mp :10 , 
 		mpMax :10 , 
 		strengh : 1 ,
-		/*
-		sprites : { idle:    , attack:     , defend:     , down:   },
-		action : []
-		*/
+		sprites : { idle: Sprite1},
+		actions : []
 		
 		
 	}
@@ -31,7 +29,7 @@ global.party =
 		mpMax : , 
 		strengh : ,
 		sprites : { idle:    , attack:     , defend:     , down:   },
-		action : []
+		actions : []
 		
 	}*/
 ];
@@ -44,13 +42,14 @@ global.enemies =
 		
 		//first enemies
 		name :"slime", 
-		hp : 10,
+		sprites : { idle: slime }
 		/*
+		hp : 10,
 		hpMax : ,
 		mp : , 
 		mpMax : , 
 		strengh : ,
-		sprites : { idle:    , attack:     , defend:     , down:   },
+
 		action : [],
 		xpValue :  , 
 		AIscript : function()

@@ -1,6 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-// Inherit the parent event
-event_inherited();
-image_xscale = 1;
+NewEncounter([global.enemies.slimeG, global.enemies.slimeG], BattleBackGround);

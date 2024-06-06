@@ -11,3 +11,4 @@ function NewEncounter(_enemies,_bg) {
 	);
 	
 }
+global.input_enabled = true;
