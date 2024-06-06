@@ -1,22 +1,27 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
-/*
+
 //party data
 global.party = 
 [
 	{
 		// first party character
-		name :" ", 
-		hp : ,
-		hpMax : ,
-		mp : , 
-		mpMax : , 
-		strengh : ,
+		name :"Player1", 
+		hp : 10 ,
+		hpMax: 10 ,
+		mp :10 , 
+		mpMax :10 , 
+		strengh : 1 ,
+		/*
 		sprites : { idle:    , attack:     , defend:     , down:   },
 		action : []
+		*/
+		
 		
 	}
-	, 
+	/*
+	,
+	
 	{
 		// second party character
 		name :" ", 
@@ -28,7 +33,7 @@ global.party =
 		sprites : { idle:    , attack:     , defend:     , down:   },
 		action : []
 		
-	}
+	}*/
 ];
 
 //enemies data
@@ -38,8 +43,9 @@ global.enemies =
 	{
 		
 		//first enemies
-		name :"Slime", 
-		hp : ,
+		name :"slime", 
+		hp : 10,
+		/*
 		hpMax : ,
 		mp : , 
 		mpMax : , 
@@ -51,7 +57,9 @@ global.enemies =
 		{
 			//enemy turn ai goes here
 		}
+		*/
 	}
+	/*
 	, 
 	
 	{
@@ -63,5 +71,5 @@ global.enemies =
 			//enemy turn ai goes here
 		}
 	}
-];
-*/
+	*/
+};
