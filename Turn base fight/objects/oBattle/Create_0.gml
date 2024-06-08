@@ -6,8 +6,8 @@ unitTurnOrder = [];
 unitRenderOrder = [];
 //make enemies
 for(var i = 0; i < array_length(enemies); i++) {
-	enemiesUnits[i] = instance_create_depth(x + 450 + (i*15), 
-											y + 160 +(i*30), 
+	enemiesUnits[i] = instance_create_depth(x + 420 + (i*15), 
+											y + 110 +(i*30), 
 											depth -10, 
 											oBattleUnitEnemy, 
 											enemies[i]
@@ -17,8 +17,8 @@ for(var i = 0; i < array_length(enemies); i++) {
 
 //make parties
 for(var i = 0; i < array_length(global.party); i++) {
-	partyUnits[i] = instance_create_depth(x + 250 + (i*10), 
-										  y + 200 +(i*20), 
+	partyUnits[i] = instance_create_depth(x + 150 + (i*10), 
+										  y + 110 +(i*20), 
 										  depth -10,
 										  oBattleUnitPC, 
 										  global.party[i]
