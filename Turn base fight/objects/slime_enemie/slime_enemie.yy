@@ -8,8 +8,8 @@
   "name":"slime_enemie",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"oEnemy",
+    "path":"folders/Objects/oEnemy.yy",
   },
   "parentObjectId":null,
   "persistent":false,
