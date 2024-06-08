@@ -7,7 +7,7 @@ unitRenderOrder = [];
 //make enemies
 for(var i = 0; i < array_length(enemies); i++) {
 	enemiesUnits[i] = instance_create_depth(x + 450 + (i*15), 
-											y + 200 +(i*30), 
+											y + 160 +(i*30), 
 											depth -10, 
 											oBattleUnitEnemy, 
 											enemies[i]

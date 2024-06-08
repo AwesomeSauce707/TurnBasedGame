@@ -6,7 +6,7 @@ var numberOfEnemies = irandom_range(1,4);
 
 //var enemies = array_create(numberOfEnemies);
 
-for (var i = 0; i <= numberOfEnemies; i++){
+for (var i = 0; i < numberOfEnemies; i++){
 		enemies[i] = global.enemies.slimeG;
 }
 
