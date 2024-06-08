@@ -9,7 +9,7 @@ for (var i = 0; i < array_length(unitRenderOrder); i++) {
 	}
 }
 // need to draw ui box
-draw_sprite_stretched(sHudBackground, 0, x , y + 250, 650,110);
-draw_sprite_stretched(sHudBackground, 0, x , y , 650,50);
+draw_sprite_stretched(sHudBackground, 0, x , y + 250, 640,110);
+draw_sprite_stretched(sHudBackground, 0, x , y , 640,50);
 
 
